@@ -12,18 +12,23 @@ information detail visit my Blog / Social Media
 
 Facebook 
 
+https://www.facebook.com/profile.php?id=100063519942256
 
 instagram
 
+https://www.instagram.com/ramadhan_fattah_yahya/
 
 Twitter
 
+https://twitter.com/ramadhan_editor
 
 YouTube Channel
 
+https://www.youtube.com/channel/UCtpK4ktYS2o52vqADW41ycw
 
-YouTube 
+YouTube Ramadhan Nakama Yahya 
 
+https://www.youtube.com/channel/UCQJCcyQEa0fGbk7SSv_KDSA
 
 Site Homepage
 
@@ -31,4 +36,5 @@ https://ramadhanfattahyahya.com
 
 
 Site Framework 
+
 https:/twisterstarcss.com
