@@ -7,12 +7,9 @@ This Framework Star CSS for Web Development easy for Beginner guide change Boost
 
 Name = Twister Star CSS
 
-
 Version : "21.1beta released
 
-
 Author : Rahadi Ramadhan
-
 
 Framework Type : CSS Custom 
 
@@ -43,4 +40,4 @@ YouTube Ramadhan Nakama Yahya
 
 Site Homepage
 
-[https://ramadhanfattahyahya.com
+[https://rahadiramadhan.id
